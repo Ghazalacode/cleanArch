@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">wheatherAPP</string>
+
+    <string name="increment">Increment</string>
+    <string name="city_name">City Name</string>
+    <string name="search">Search</string>
+    <string name="favorites">Favorites</string>
+    <string name="show">Show</string>
 </resources>
